@@ -44,7 +44,7 @@ INSERT INTO [Employee] VALUES
 (2, 3, 'Company A', 'qa', 'Tracy Miller'),
 (3, 4, 'Company B', 'manager', 'Timothy Ramirez'),
 (5, 5, 'Company B', 'developer', 'Richard Richardson'),
-(4, 6, 'Company A', 'developer', 'Jessica Odom'),
+(4, 6, 'Company A', 'developer', 'Jessica Odom7'),
 (5, 8, 'Company B', 'manager', 'Danielle Bennett'),
 (6, 10, 'Company C', 'devops', 'Suzanne Holt'),
 (7, 11, 'Company A', 'security', 'Matthew Silva')
